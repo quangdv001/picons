@@ -1,0 +1,179 @@
+2019-01-04T04:04:47+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php:51
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation.class.php(1915): wpml_cms_nav_db_setup()
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): WPML_CMS_Navigation->plugin_activate(false)
+#2 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/picons/wp-admin/includes/plugin.php(586): do_action('activate_wpml-c...', false)
+#5 /opt/lampp/htdocs/picons/wp-admin/includes/plugin.php(747): activate_plugin('wpml-cms-nav/pl...', 'http://localhos...', false, false)
+#6 /opt/lampp/htdocs/picons/wp-admin/plugins.php(112): activate_plugins(Array, 'http://localhos...', false)
+#7 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php on line 51
+
+2019-01-04T04:04:49+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php:51
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation.class.php(1915): wpml_cms_nav_db_setup()
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): WPML_CMS_Navigation->plugin_activate('')
+#2 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_wpml-c...')
+#5 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php on line 51
+
+2019-01-04T04:04:49+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php:51
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation.class.php(1915): wpml_cms_nav_db_setup()
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): WPML_CMS_Navigation->plugin_activate('')
+#2 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_wpml-c...')
+#5 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php on line 51
+
+2019-01-04T04:05:21+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php:51
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation.class.php(1915): wpml_cms_nav_db_setup()
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): WPML_CMS_Navigation->plugin_activate(false)
+#2 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/picons/wp-admin/includes/plugin.php(586): do_action('activate_wpml-c...', false)
+#5 /opt/lampp/htdocs/picons/wp-admin/plugins.php(43): activate_plugin('wpml-cms-nav/pl...', 'http://localhos...', false)
+#6 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php on line 51
+
+2019-01-04T04:05:22+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php:51
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation.class.php(1915): wpml_cms_nav_db_setup()
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): WPML_CMS_Navigation->plugin_activate('')
+#2 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_wpml-c...')
+#5 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php on line 51
+
+2019-01-04T04:05:22+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php:51
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation.class.php(1915): wpml_cms_nav_db_setup()
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): WPML_CMS_Navigation->plugin_activate('')
+#2 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_wpml-c...')
+#5 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php on line 51
+
+2019-01-04T04:05:42+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:79
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): icl_sitepress_activate(false)
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/picons/wp-admin/includes/plugin.php(586): do_action('activate_sitepr...', false)
+#4 /opt/lampp/htdocs/picons/wp-admin/plugins.php(43): activate_plugin('sitepress-multi...', 'http://localhos...', false)
+#5 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php on line 79
+
+2019-01-04T04:05:43+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:143
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): icl_sitepress_activate('')
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_sitepr...')
+#4 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php on line 143
+
+2019-01-04T04:05:44+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:233
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): icl_sitepress_activate('')
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_sitepr...')
+#4 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php on line 233
+
+2019-01-04T04:06:12+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:281
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): icl_sitepress_activate(false)
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/picons/wp-admin/includes/plugin.php(586): do_action('activate_sitepr...', false)
+#4 /opt/lampp/htdocs/picons/wp-admin/plugins.php(43): activate_plugin('sitepress-multi...', 'http://localhos...', false)
+#5 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php on line 281
+
+2019-01-04T04:06:13+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:317
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): icl_sitepress_activate('')
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_sitepr...')
+#4 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php on line 317
+
+2019-01-04T04:06:13+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:361
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): icl_sitepress_activate('')
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_sitepr...')
+#4 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php on line 361
+
+2019-01-04T04:09:25+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php:51
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation.class.php(1915): wpml_cms_nav_db_setup()
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): WPML_CMS_Navigation->plugin_activate(false)
+#2 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/picons/wp-admin/includes/plugin.php(586): do_action('activate_wpml-c...', false)
+#5 /opt/lampp/htdocs/picons/wp-admin/includes/plugin.php(747): activate_plugin('wpml-cms-nav/pl...', 'http://localhos...', false, false)
+#6 /opt/lampp/htdocs/picons/wp-admin/plugins.php(112): activate_plugins(Array, 'http://localhos...', false)
+#7 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php on line 51
+
+2019-01-04T04:09:26+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php:51
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation.class.php(1915): wpml_cms_nav_db_setup()
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): WPML_CMS_Navigation->plugin_activate('')
+#2 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_wpml-c...')
+#5 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php on line 51
+
+2019-01-04T04:09:26+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_query() in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php:51
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation.class.php(1915): wpml_cms_nav_db_setup()
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): WPML_CMS_Navigation->plugin_activate('')
+#2 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_wpml-c...')
+#5 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/wpml-cms-nav/inc/cms-navigation-schema.php on line 51
+
+2019-01-04T04:20:00+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:387
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): icl_sitepress_activate(false)
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/picons/wp-admin/includes/plugin.php(586): do_action('activate_sitepr...', false)
+#4 /opt/lampp/htdocs/picons/wp-admin/plugins.php(43): activate_plugin('sitepress-multi...', 'http://localhos...', false)
+#5 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php on line 387
+
+2019-01-04T04:20:01+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:417
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): icl_sitepress_activate('')
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_sitepr...')
+#4 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php on line 417
+
+2019-01-04T04:20:02+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php:473
+Stack trace:
+#0 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(286): icl_sitepress_activate('')
+#1 /opt/lampp/htdocs/picons/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /opt/lampp/htdocs/picons/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /opt/lampp/htdocs/picons/wp-admin/plugins.php(180): do_action('activate_sitepr...')
+#4 {main}
+  thrown in /opt/lampp/htdocs/picons/wp-content/plugins/sitepress-multilingual-cms/inc/sitepress-schema.php on line 473
+
